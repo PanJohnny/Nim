@@ -1,5 +1,4 @@
 # Nim
-nim game for soemone on **_AlphaBet_** who needed help
 ## Rules
 On the start of game there are 15-30 stones. <br>
 You can take 1-3 stones.<br>
